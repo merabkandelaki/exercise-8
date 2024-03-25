@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.a22aeea9.css",
-    "main.js": "/static/js/main.caf1a36a.js",
-    "static/js/453.affee296.chunk.js": "/static/js/453.affee296.chunk.js",
-    "static/media/Cover.png": "/static/media/Cover.6ebb75ab111e03d92cb0.png",
-    "static/media/logo.jpg": "/static/media/logo.609aa8f1041e37085be1.jpg",
-    "static/media/logo_footer.svg": "/static/media/logo_footer.bdaaf8526c391e30f6747b1d5e3ac122.svg",
-    "index.html": "/index.html",
-    "main.a22aeea9.css.map": "/static/css/main.a22aeea9.css.map",
-    "main.caf1a36a.js.map": "/static/js/main.caf1a36a.js.map",
-    "453.affee296.chunk.js.map": "/static/js/453.affee296.chunk.js.map"
+    "main.css": "https://merabkandelaki.github.io/exercise-8/static/css/main.a22aeea9.css",
+    "main.js": "https://merabkandelaki.github.io/exercise-8/static/js/main.3c8e1a7b.js",
+    "static/js/453.affee296.chunk.js": "https://merabkandelaki.github.io/exercise-8/static/js/453.affee296.chunk.js",
+    "static/media/Cover.png": "https://merabkandelaki.github.io/exercise-8/static/media/Cover.6ebb75ab111e03d92cb0.png",
+    "static/media/logo.jpg": "https://merabkandelaki.github.io/exercise-8/static/media/logo.609aa8f1041e37085be1.jpg",
+    "static/media/logo_footer.svg": "https://merabkandelaki.github.io/exercise-8/static/media/logo_footer.bdaaf8526c391e30f6747b1d5e3ac122.svg",
+    "index.html": "https://merabkandelaki.github.io/exercise-8/index.html",
+    "main.a22aeea9.css.map": "https://merabkandelaki.github.io/exercise-8/static/css/main.a22aeea9.css.map",
+    "main.3c8e1a7b.js.map": "https://merabkandelaki.github.io/exercise-8/static/js/main.3c8e1a7b.js.map",
+    "453.affee296.chunk.js.map": "https://merabkandelaki.github.io/exercise-8/static/js/453.affee296.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a22aeea9.css",
-    "static/js/main.caf1a36a.js"
+    "static/js/main.3c8e1a7b.js"
   ]
 }
