@@ -1,7 +1,7 @@
 import { HOME, FISHES } from "../constants/routes";
 import Home from "../pages/Home/Home";
 import Fishes from "../pages/Fishes/Fishes";
-import NotFound from "../pages/NotFound/NotFound";
+// import NotFound from "../pages/NotFound/NotFound";
 
 const routes = [
   {
@@ -12,10 +12,10 @@ const routes = [
     path: FISHES,
     Component: Fishes,
   },
-  {
-    path: "*",
-    Component: NotFound,
-  },
+  // {
+  //   path: "*",
+  //   Component: NotFound,
+  // },
 ];
 
 export default routes;
