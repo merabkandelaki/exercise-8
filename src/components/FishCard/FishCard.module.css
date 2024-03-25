@@ -1,0 +1,34 @@
+.fish {
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    gap: 21px;
+    border: none;
+    border-radius: 25px;
+    background-color: white;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.description {
+    padding: 15px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    font-size: 21px;
+    background-color:antiquewhite;
+    border: none;
+    border-radius: 8px;
+}
+
+.name {
+    color: red;
+    font-weight: bold;
+}
