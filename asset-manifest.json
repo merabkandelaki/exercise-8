@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://merabkandelaki.github.io/exercise-8/static/css/main.97318b33.css",
-    "main.js": "https://merabkandelaki.github.io/exercise-8/static/js/main.380d40d8.js",
+    "main.js": "https://merabkandelaki.github.io/exercise-8/static/js/main.75e8c383.js",
     "static/js/453.affee296.chunk.js": "https://merabkandelaki.github.io/exercise-8/static/js/453.affee296.chunk.js",
     "static/media/Cover.png": "https://merabkandelaki.github.io/exercise-8/static/media/Cover.6ebb75ab111e03d92cb0.png",
     "static/media/logo.jpg": "https://merabkandelaki.github.io/exercise-8/static/media/logo.609aa8f1041e37085be1.jpg",
@@ -9,11 +9,11 @@
     "static/media/logo_footer.svg": "https://merabkandelaki.github.io/exercise-8/static/media/logo_footer.bdaaf8526c391e30f6747b1d5e3ac122.svg",
     "index.html": "https://merabkandelaki.github.io/exercise-8/index.html",
     "main.97318b33.css.map": "https://merabkandelaki.github.io/exercise-8/static/css/main.97318b33.css.map",
-    "main.380d40d8.js.map": "https://merabkandelaki.github.io/exercise-8/static/js/main.380d40d8.js.map",
+    "main.75e8c383.js.map": "https://merabkandelaki.github.io/exercise-8/static/js/main.75e8c383.js.map",
     "453.affee296.chunk.js.map": "https://merabkandelaki.github.io/exercise-8/static/js/453.affee296.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.97318b33.css",
-    "static/js/main.380d40d8.js"
+    "static/js/main.75e8c383.js"
   ]
 }
